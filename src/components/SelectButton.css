@@ -1,0 +1,15 @@
+.selected_button{
+    border: 1px solid gold;
+    border-radius: 5;
+    padding: 10;
+    padding-left: 20;
+    padding-right: 20;
+    font-family: "Montserrat";
+    cursor: pointer;
+    width: 22%;
+}
+
+.selected_button :hover{
+    background-color: gold;
+    color: black;
+}

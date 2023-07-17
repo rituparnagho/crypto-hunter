@@ -1,0 +1,8 @@
+.title {
+    flex: 1;
+    color: gold;
+    /* font-family: 'Montserrat'; */
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+}
